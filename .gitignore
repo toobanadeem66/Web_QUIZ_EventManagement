@@ -5,6 +5,12 @@
 /.pnp
 .pnp.js
 
+#files to ignore 
+/Signup
+/Main
+/Login
+
+
 # testing
 /coverage
 
